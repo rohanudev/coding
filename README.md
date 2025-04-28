@@ -10,11 +10,11 @@ LeetCode
 
 | # | Title | Solution |
 |---| ----- | -------- |
-| 1 | [로봇 청소기](https://www.acmicpc.net/problem/14503) | [Python] |
-
+| 1 | [로봇 청소기](https://www.acmicpc.net/problem/14503) | [Python](./algorithm/python/baekjoon_14503.py) |
+| 2 | [] | [Python] |
 
 
 
 </details>
 
-This repository references [jwkim1993's leetcode]((https://github.com/jwkim1993/leetcode)
+This repository references [jwkim1993's leetcode](https://github.com/jwkim1993/leetcode)
