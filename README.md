@@ -1,6 +1,5 @@
 # Coding
 Solutions for baekjoon/programmers problem
-LeetCode
 ========
 
 ### Baekjoon Algorithm
