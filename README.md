@@ -4,10 +4,18 @@ Solutions for Baekjoon and Programmers problems using Python
 > 꾸준한 문제풀이로 사고력과 실전 구현력을 강화합니다.
 
 
-![Solved](https://img.shields.io/badge/solved--problems-2-green)
+![Solved](https://img.shields.io/badge/solved--problems-8-green)
 ![Language](https://img.shields.io/badge/language-python-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/rohanudev/coding)
 
+---
+
+## 🗓 May 2025 Challenge
+
+| #  | Title                        | Platform | Link | Solution |
+|----|------------------------------|----------|------|----------|
+| 1  | [카드 정렬하기]          | Baekjoon | [14503](https://www.acmicpc.net/problem/1715) | [baekjoon_14503.py](./algorithm/python/baekjoon_1715.py) |
+| ?  | [문제 제목 작성 예정]        | |🔧 [In Progress]     |                                    |
 ---
 
 ## 🗓 April 2025 Challenge
@@ -22,7 +30,7 @@ Solutions for Baekjoon and Programmers problems using Python
 | 6  | 정렬된 좌표 출력             | Baekjoon | [11650](https://www.acmicpc.net/problem/11650) | [baekjoon_11650.py](./algorithm/python/baekjoon_11650.py) |
 | 7  | 완주하지 못한 선수 (해시)     | Programmers | [42576](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [programmers_42576.py](./algorithm/python/programmers_42576.py) |
 | 8  | 가장 큰 수 (정렬 커스텀)      | Programmers | [42746](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [programmers_42746.py](./algorithm/python/programmers_42746.py) |
-| 9  | [문제 제목 작성 예정]        | 🔧 [In Progress]                                         |
+
 ---
 
 ## 👨‍💻 Problem Solving Activity
