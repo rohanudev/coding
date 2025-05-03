@@ -4,7 +4,7 @@ Solutions for Baekjoon and Programmers problems using Python
 > 꾸준한 문제풀이로 사고력과 실전 구현력을 강화합니다.
 
 
-![Solved](https://img.shields.io/badge/solved--problems-8-green)
+![Solved](https://img.shields.io/badge/solved--problems-9-green)
 ![Language](https://img.shields.io/badge/language-python-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/rohanudev/coding)
 
@@ -15,7 +15,7 @@ Solutions for Baekjoon and Programmers problems using Python
 | #  | Title                        | Platform | Link | Solution |
 |----|------------------------------|----------|------|----------|
 | 1  | [카드 정렬하기]          | Baekjoon | [14503](https://www.acmicpc.net/problem/1715) | [baekjoon_14503.py](./algorithm/python/baekjoon_1715.py) |
-| ?  | [문제 제목 작성 예정]        | |🔧 [In Progress]     |                                    |
+| 2  | [문제 제목 작성 예정]        | |🔧 [In Progress]     |                                    
 ---
 
 ## 🗓 April 2025 Challenge
