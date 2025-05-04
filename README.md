@@ -14,8 +14,8 @@ Solutions for Baekjoon and Programmers problems using Python
 
 | #  | Title                        | Platform | Link | Solution |
 |----|------------------------------|----------|------|----------|
-| 1  | [카드 정렬하기]          | Baekjoon | [14503](https://www.acmicpc.net/problem/1715) | [baekjoon_14503.py](./algorithm/python/baekjoon_1715.py) |
-| 2  | [문제 제목 작성 예정]        | |🔧 [In Progress]     |                                    
+| 1  | 카드 정렬하기          | Baekjoon | [14503](https://www.acmicpc.net/problem/1715) | [baekjoon_14503.py](./algorithm/python/baekjoon_1715.py) |
+| 2  | 바이러스        | Baekjoon | [2606](https://www.acmicpc.net/problem/2606) | [baekjoon_14503.py](./algorithm/python/baekjoon_2606.py) |                                    
 ---
 
 ## 🗓 April 2025 Challenge
