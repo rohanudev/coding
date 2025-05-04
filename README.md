@@ -15,7 +15,9 @@ Solutions for Baekjoon and Programmers problems using Python
 | #  | Title                        | Platform | Link | Solution |
 |----|------------------------------|----------|------|----------|
 | 1  | 카드 정렬하기          | Baekjoon | [14503](https://www.acmicpc.net/problem/1715) | [baekjoon_14503.py](./algorithm/python/baekjoon_1715.py) |
-| 2  | 바이러스        | Baekjoon | [2606](https://www.acmicpc.net/problem/2606) | [baekjoon_14503.py](./algorithm/python/baekjoon_2606.py) |                                    
+| 2  | 바이러스        | Baekjoon | [2606](https://www.acmicpc.net/problem/2606) | [baekjoon_14503.py](./algorithm/python/baekjoon_2606.py) |          
+| 3  | 정렬된 좌표 출력 2        | Baekjoon | [2606](https://www.acmicpc.net/problem/2606) | [baekjoon_11651.py](./algorithm/python/baekjoon_11651.py) |  
+| 4  | 문자열 내 마음대로 정렬하기        | Baekjoon | [2606](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | [programmers_12915.py](./algorithm/python/programmers_12915.py) |                            
 ---
 
 ## 🗓 April 2025 Challenge
