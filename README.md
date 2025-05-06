@@ -18,6 +18,7 @@ Solutions for Baekjoon and Programmers problems using Python
 | 3  | 정렬된 좌표 출력 2          | Baekjoon    | [11651](https://www.acmicpc.net/problem/11651)                                         | [baekjoon_11651.py](./algorithm/python/may_2025/baekjoon_11651.py) |
 | 4  | 문자열 내 마음대로 정렬하기 | Programmers | [12915](https://school.programmers.co.kr/learn/courses/30/lessons/12915)               | [programmers_12915.py](./algorithm/python/may_2025/programmers_12915.py) |
 | 5  | 단어 정렬                    | Baekjoon    | [1181](https://www.acmicpc.net/problem/1181)                                           | [baekjoon_1181.py](./algorithm/python/may_2025/baekjoon_1181.py) |
+| 6  | 스택                    | Baekjoon    | [10828](https://www.acmicpc.net/problem/10828)                                           | [baekjoon_10828.py](./algorithm/python/may_2025/baekjoon_10828.py) |
 
 ---
 
