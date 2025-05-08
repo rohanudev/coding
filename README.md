@@ -3,7 +3,7 @@ Solutions for Baekjoon and Programmers problems using Python
 
 > 꾸준한 문제풀이로 사고력과 실전 구현력을 강화합니다.
 
-![Solved](https://img.shields.io/badge/solved--problems-13-green)
+![Solved](https://img.shields.io/badge/solved--problems-14-green)
 ![Language](https://img.shields.io/badge/language-python-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/rohanudev/coding)
 
@@ -19,6 +19,7 @@ Solutions for Baekjoon and Programmers problems using Python
 | 4  | 문자열 내 마음대로 정렬하기 | Programmers | [12915](https://school.programmers.co.kr/learn/courses/30/lessons/12915)               | [programmers_12915.py](./algorithm/python/may_2025/programmers_12915.py) |
 | 5  | 단어 정렬                    | Baekjoon    | [1181](https://www.acmicpc.net/problem/1181)                                           | [baekjoon_1181.py](./algorithm/python/may_2025/baekjoon_1181.py) |
 | 6  | 스택                    | Baekjoon    | [10828](https://www.acmicpc.net/problem/10828)                                           | [baekjoon_10828.py](./algorithm/python/may_2025/baekjoon_10828.py) |
+| 7  | 스택 수열                   | Baekjoon    | [1874](https://www.acmicpc.net/problem/1874)                                           | [baekjoon_1874.py](./algorithm/python/may_2025/baekjoon_1874.py) |
 
 ---
 
