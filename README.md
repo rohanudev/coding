@@ -21,7 +21,7 @@ Solutions for Baekjoon and Programmers problems using Python
 | 6  | 스택                    | Baekjoon    | [10828](https://www.acmicpc.net/problem/10828)                                           | [baekjoon_10828.py](./algorithm/python/may_2025/baekjoon_10828.py) |
 | 7  | 스택 수열                   | Baekjoon    | [1874](https://www.acmicpc.net/problem/1874)                                           | [baekjoon_1874.py](./algorithm/python/may_2025/baekjoon_1874.py) |
 | 8  | 택배 상자 꺼내기                   | programmers    | [389478](https://school.programmers.co.kr/learn/courses/30/lessons/389478)                                           | [programmers_389478.py](./algorithm/python/may_2025/programmers_389478.py) |
-
+| 9  | 전화번호 목록                   | programmers    | [42577](https://school.programmers.co.kr/learn/courses/30/lessons/42577)                                           | [programmers_42577.py](./algorithm/python/may_2025/programmers_42577.py) |
 
 ---
 
