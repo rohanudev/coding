@@ -3,7 +3,7 @@ Solutions for Baekjoon and Programmers problems using Python
 
 > 꾸준한 문제풀이로 사고력과 실전 구현력을 강화합니다.
 
-![Solved](https://img.shields.io/badge/solved--problems-14-green)
+![Solved](https://img.shields.io/badge/solved--problems-17-green)
 ![Language](https://img.shields.io/badge/language-python-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/rohanudev/coding)
 
